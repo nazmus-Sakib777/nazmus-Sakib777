@@ -19,10 +19,40 @@ Skills: C / C++ / C# / SQL / ASP .NET core  / MVC5 / HTML / CSS / JavaScript / A
 - 💬 Ask me about Web Development
 
 
+<p align="center">
+  <a href="https://github.com/nazmus-Sakib777">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="24" style="margin-right:10px;" />
+  </a>
+  <a href="https://dev.to/nazmus_sakib22">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" alt="Dev.to" height="24" style="margin-right:10px;" />
+  </a>
+  <a href="https://hashnode.com/@MNSAKIB">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" alt="Hashnode" height="24" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/mns07/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="24" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.facebook.com/mnsakib2202/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="24" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.instagram.com/nazmus899/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="24" style="margin-right:10px;" />
+  </a>
+  <a href="https://codesandbox.io/u/nazmus2202">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codesandbox.svg" alt="CodeSandbox" height="24" style="margin-right:10px;" />
+  </a>
+  <a href="https://stackoverflow.com/users/nazmus-sakib">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Stack Overflow" height="24" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.youtube.com/channel/@mnsakib1377">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="24" style="margin-right:10px;" />
+  </a>
+  <a href="https://nazmus-sakib777.github.io/nazmussakib.github.io/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" alt="Website" height="24" />
+  </a>
+</p>
 
-<P>
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nazmus-Sakib777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='20'>](https://dev.to/nazmus_sakib22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@MNSAKIB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mns07/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mnsakib2202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nazmus899/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/nazmus2202)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/nazmus-sakib)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@mnsakib1377)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nazmus-sakib777.github.io/nazmussakib.github.io/)  
-</P>
+
 
 
 
